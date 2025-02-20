@@ -3,7 +3,7 @@
 // Шаг 3: Вывод "Привет, мир!"
 echo "Привет, мир!<br>";
 
-// Шаг 4: Вывод данных разными методами
+// Шаг 4: Вывод данных в PHP
 echo "Hello, World with echo!<br>";
 print "Hello, World with print!<br>";
 
